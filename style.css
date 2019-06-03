@@ -1,0 +1,46 @@
+body {
+    background-color: #F36C93;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:#FCE2EA;
+    text-align: center;
+}
+
+.imagen {
+    height: 60%;
+    width: 60%;
+    display: block;
+    margin-left: 20%;
+}
+
+#hoja-tres {
+    background: #F482A2;
+}
+
+#hoja-cuatro {
+    background: #F482A2;
+}
+
+#hoja-cinco {
+    background: #F482A2;
+}
+
+.imagen2 {
+    height: 30%;
+    width: 30%;
+    display: block;
+    margin-left: 35%;
+}
+.imagen3 {
+    height: 10%;
+    width: 20%;
+}
+
+button {
+    height: 50px;
+    width: 100px;
+    background: black;
+    color: #FCE2EA;
+    font-size: 10px;
+
+
+}
